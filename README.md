@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there! 👋 I'm Prabu Setyo Akhmad, a passionate Software Engineer and Web Developer.<br>I graduated from SMK Taruna Bangsa – Software Engineering major, where I learned to design, develop,<br>and manage applications both in desktop and web environments.
 
-![Prabu Setyo Akhmad](images/abu.png)
+![Prabu Setyo Akhmad](Images/abu.png)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abuzyuan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abuzyuan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabu-setyo-akhmad-7955a9384) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abuzycreative@gmail.com) 
